@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pages/static/css/main.c1afceb7.chunk.css",
+    "main.js": "/pages/static/js/main.67f439ad.chunk.js",
+    "main.js.map": "/pages/static/js/main.67f439ad.chunk.js.map",
+    "runtime-main.js": "/pages/static/js/runtime-main.da9319f5.js",
+    "runtime-main.js.map": "/pages/static/js/runtime-main.da9319f5.js.map",
+    "static/js/2.bc7e7a7e.chunk.js": "/pages/static/js/2.bc7e7a7e.chunk.js",
+    "static/js/2.bc7e7a7e.chunk.js.map": "/pages/static/js/2.bc7e7a7e.chunk.js.map",
+    "static/js/3.eeb6432d.chunk.js": "/pages/static/js/3.eeb6432d.chunk.js",
+    "static/js/3.eeb6432d.chunk.js.map": "/pages/static/js/3.eeb6432d.chunk.js.map",
+    "index.html": "/pages/index.html",
+    "static/css/main.c1afceb7.chunk.css.map": "/pages/static/css/main.c1afceb7.chunk.css.map",
+    "static/js/2.bc7e7a7e.chunk.js.LICENSE.txt": "/pages/static/js/2.bc7e7a7e.chunk.js.LICENSE.txt",
+    "static/media/piglet.e32871f7.png": "/pages/static/media/piglet.e32871f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da9319f5.js",
+    "static/js/2.bc7e7a7e.chunk.js",
+    "static/css/main.c1afceb7.chunk.css",
+    "static/js/main.67f439ad.chunk.js"
+  ]
+}
